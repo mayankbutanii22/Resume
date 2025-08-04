@@ -1,0 +1,32 @@
+.languages {
+  margin-top: 2rem;
+  width: 100%;
+}
+
+.languages h2 {
+  color: #fff;
+  margin-bottom: 0.8rem;
+}
+
+.languages ul {
+  list-style: none;
+  padding: 0;
+}
+
+.languages li {
+  margin-bottom: 0.8rem;
+  font-size: 0.95rem;
+}
+
+.bar {
+  background: rgba(255, 255, 255, 0.2);
+  height: 6px;
+  border-radius: 4px;
+  margin-top: 0.3rem;
+}
+
+.fill {
+  background: #fff;
+  height: 100%;
+  border-radius: 4px;
+}

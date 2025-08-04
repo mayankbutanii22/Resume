@@ -1,0 +1,34 @@
+.education {
+  margin-bottom: 2rem;
+}
+
+.education h2 {
+  color: #03346E;
+  margin-bottom: 1rem;
+}
+
+.item {
+  margin-bottom: 1.2rem;
+  background: #f9fbfd;
+  padding: 0.8rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.item h3 {
+  font-size: 1.1rem;
+  color: #222;
+  margin-bottom: 0.3rem;
+}
+
+.school {
+  color: #03346E;
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+}
+
+.course {
+  color: #555;
+  font-style: italic;
+}
+
