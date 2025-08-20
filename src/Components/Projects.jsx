@@ -14,6 +14,17 @@ const Projects = ({ projects }) => {
               <li key={i}>{detail}</li>
             ))}
           </ul>
+              {proj.live && (
+              <p className={styles.live}>
+              <strong>Live : </strong>
+              <a href={proj.live} target="_blank" rel="" className={styles.liveLink}>
+              {proj.live}
+              </a>
+              </p>
+            )}
+            {proj.description && (
+            <p className={styles.description}>{proj.description}</p>
+            )}
         </div>
       ))}
     </section>
