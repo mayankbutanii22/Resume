@@ -10,7 +10,7 @@ const initialState = {
     Vercel: "https://vercel.com/mayankbutanii22s-projects",
   },
   summary: [
-  "Frontend Developer with 1 year of experience in building responsive and dynamic web applications.",
+  "Frontend Developer in building responsive and dynamic website and web applications.",
   "Proficient in HTML, CSS, JavaScript, Bootstrap, React, and Redux for creating modern, user-friendly interfaces.",
   "Passionate about crafting clean, maintainable code and continuously improving web performance.",
   "Eager to grow as a React/Redux developer and contribute to high-quality, scalable digital solutions."
